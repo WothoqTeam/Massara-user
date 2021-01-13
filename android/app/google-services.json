@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465308865941",
+    "firebase_url": "https://massara-a258e.firebaseio.com",
+    "project_id": "massara-a258e",
+    "storage_bucket": "massara-a258e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465308865941:android:7122c7d04185263865129c",
+        "android_client_info": {
+          "package_name": "com.app.massara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465308865941-v00ihbd5f88ae3tlc781pghsgpko6mbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTgNLQRUSLJX6QGYsDcTOGp5aCNBuviA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465308865941-v00ihbd5f88ae3tlc781pghsgpko6mbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
